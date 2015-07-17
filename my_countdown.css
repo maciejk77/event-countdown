@@ -1,7 +1,44 @@
-/*  CSS Document                             */
-/*  Written by Chris Converse for Lynda.com  */
 
 @import url(http://fonts.googleapis.com/css?family=Teko:300,700);
 
 body { margin: 0; padding: 0; background-color: #092f6e; color: #fff; }
+
+#eurocup {
+  font-size: 16px;
+  font-family: 'Teko', sans-serif;
+  width: 450px;
+  margin: 25px auto;
+  border: 1px solid rgb(255,255,255,.2);
+  background: #092f6e url(footie.jpg) no-repeat center bottom;
+  min-height: 575px;
+}
+
+#eurocup .heading {
+  background-color: rgba(0,0,0,.9);
+  padding: 15px 0px  2px 0px;
+  margin: 0px 0px 30px 0px;
+}
+
+#eurocup h1 {
+  font-size: 4em;
+  color: #ffffff;
+  text-transform: uppercase;
+  font-weight: 300;
+  line-height: 70px;
+  margin: 0px 0px 0px -5px;
+  padding: 0px;
+  text-align: center;
+}
+
+#eurocup h2 {
+  font-size: 1.5em;
+  color: #6fb5f8;
+  text-transform: uppercase;
+  font-weight: 700px;
+  line-height: 18px;
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+  letter-spacing: 8px;
+}
 
