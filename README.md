@@ -8,6 +8,6 @@ jQuery plugin (countdown), custom HTML, CSS, responsive design
 - Responsive design
 
 ####Preview
-![event-counter-app screenshot](https://github.com/maciejk77/...)
+![event-counter-app screenshot](https://github.com/maciejk77/event-countdown/blob/master/img/screenshot.png?raw=true)
 
 
