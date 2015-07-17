@@ -42,3 +42,27 @@ body { margin: 0; padding: 0; background-color: #092f6e; color: #fff; }
   letter-spacing: 8px;
 }
 
+#eurocup .my-countdown .countdown-row { 
+  display: block; 
+  text-align: center; 
+}
+
+#eurocup .my-countdown .countdown-section {
+  display: inline-block;
+  width: 95px;
+}
+
+#eurocup .my-countdown .countdown-amount {
+  display: block;
+  color: #ffffff;
+  font-size: 4em;
+  line-height: 55px;
+}
+
+#eurocup .my-countdown .countdown-period {
+  display: block;
+  color: #6fb5f8;
+  font-size: 1.4em;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}

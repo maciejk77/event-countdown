@@ -1,4 +1,4 @@
-This project was about building a event counter timer using
+This project was about building an event counter timer using
 jQuery plugin (countdown), custom HTML, CSS, responsive design
 
 ####Key learnings:
