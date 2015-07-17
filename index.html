@@ -11,7 +11,10 @@
 
 $(document).ready(function() {
   $('.my-countdown').countdown({
-    until: $.countdown.UTCDate(0, 2016, 5, 10, 10, 0, 0, 0)
+    until: $.countdown.UTCDate(
+      0, 2016, 5, 10, 10, 0, 0, 0
+    ),
+    format: 'dhms',
   });
 
 });
