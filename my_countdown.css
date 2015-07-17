@@ -55,7 +55,7 @@ body { margin: 0; padding: 0; background-color: #092f6e; color: #fff; }
 #eurocup .my-countdown .countdown-amount {
   display: block;
   color: #ffffff;
-  font-size: 4em;
+  font-size: 4.5em;
   line-height: 55px;
 }
 
@@ -66,3 +66,50 @@ body { margin: 0; padding: 0; background-color: #092f6e; color: #fff; }
   text-transform: uppercase;
   letter-spacing: 2px;
 }
+
+@media screen and (max-width: 525px) {
+
+  #eurocup {
+    font-size: 12px;
+    width: 300px;
+    min-height: 465px;
+    background-size: 400px auto;
+  }
+
+  #eurocup .heading {
+    padding: 12px 0px 8px 0px;
+    margin-bottom: 20px;
+  }
+
+  #eurocup h1 {
+    line-height: 40px;
+    font-size: 3.7em;
+  }
+
+  #eurocup h2 {
+    line-height: 22px;
+    letter-spacing: 5px;
+  }
+
+  #eurocup .my-countdown .countdown-section {
+    width: 68px;
+  }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
