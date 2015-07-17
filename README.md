@@ -1,5 +1,5 @@
 This project was about building an event counter timer using
-jQuery plugin (countdown), custom HTML, CSS, responsive design
+**jQuery** plugin (countdown), **custom HTML**, **CSS**, **responsive design**
 
 ####Key learnings:
 
